@@ -2,11 +2,11 @@
 
 Mo, Chester, Denzel hangman game using Node.js and express
 
-<img src=".\public\assets\denw.jpg" alt="denzel" height="200" width="200"/>
+<img src="./public/assets/denw.jpg" alt="denzel" height="200" width="200"/>
 
 ## Requirements
 
-- Install Node.js
+-   Install Node.js
 
 ## Usage
 
