@@ -11,7 +11,7 @@ Mo, Chester, Denzel hangman game using Node.js and express
 ## Usage
 
 ```
-git clone <REPO>
+git clone https://github.com/oMisterMo/Hangman.git
 cd Hangman
 npm i
 npm start
